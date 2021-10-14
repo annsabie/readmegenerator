@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
-// TODO: Create an array of questions for user input
+
 const questions = [];
 
 inquirer.prompt([
@@ -30,6 +30,16 @@ inquirer.prompt([
     type: "input",
     message: "Please list your collaborators and any other third parties to pay credit to.",
     name: "credits",
+    },
+    {
+    type: "input",
+    message: "Please provide instructions on how you would like other developers to contribute.",
+    name: "contributing"
+    },
+    {
+    type: "input",
+    message: "Please provide examples on how to run tests for your application.",
+    name: "tests"
     },
     {
     type: "list",

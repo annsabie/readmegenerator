@@ -1,7 +1,7 @@
-# fdgsfgs
+# dfgsdfg
 
   ## Description
-  dsfgsdfg
+  sdfgdsfgsdfgh
 
   ## Table of Contents
   - [Installation] (#installation)
@@ -10,20 +10,20 @@
   - [License] (#license)
 
   ## Installation
-  sdfgdsfgsd
+  sdfgsdfgsdg
 
   ## Usage
-  sdfgdsfgs
+  sdfgsdfhgsfgh
 
   ## Credits
-  sdfgsdfgsdfg
+  dsgdsfg
 
   ## License
-  GNU
-  (https://img.shields.io/badge/license-GNU-blue)
+  BSD2
+  ![License](https://img.shields.io/badge/license-BSD2-blue)
 
   ## Github
-  argsdfg
+  redegsgh
 
   ## Email
-  sdfgdsfgs
+  sdfgsghf

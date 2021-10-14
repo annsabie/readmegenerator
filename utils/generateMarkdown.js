@@ -34,8 +34,7 @@ function generateMarkdown(data) {
   ${data.credits}
 
   ## License
-  ${data.license}
-  (https://img.shields.io/badge/license-${data.license}-blue)
+  ![License](https://img.shields.io/badge/license-${data.license}-blue)
 
   ## Github
   ${data.github}

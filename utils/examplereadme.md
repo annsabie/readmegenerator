@@ -1,28 +1,29 @@
-# ,
+# fdgsfgs
 
   ## Description
-  drg,
+  dsfgsdfg
 
   ## Table of Contents
   - [Installation] (#installation)
   - [Usage] (#usage)
   - [Credits] (#credits)
-  - [License] (#license),
+  - [License] (#license)
 
   ## Installation
-  sfd,
+  sdfgdsfgsd
 
   ## Usage
-  dsf,
+  sdfgdsfgs
 
   ## Credits
-  sdf,
+  sdfgsdfgsdfg
 
   ## License
-  MIT,
+  GNU
+  (https://img.shields.io/badge/license-GNU-blue)
 
   ## Github
-  sdf,
+  argsdfg
 
   ## Email
-  df,
+  sdfgdsfgs
